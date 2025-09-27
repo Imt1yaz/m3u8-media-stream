@@ -1,21 +1,4 @@
 #EXTM3U
-#EXTINF:1460, Cocaine Bear
-#EXTVLCOPT:network-caching=1000
-http://content4.discoveryftp.net/secure/ccwjc4oeyT4z6PXLNrFs0g/1758977810/Movies/English/2023/Cocaine%20Bear/Cocaine.Bear.2023.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv
-
-#EXTINF:1460, Air Force Elite Thunderbirds
-#EXTVLCOPT:network-caching=1000
-http://content4.discoveryftp.net/secure/Hf-1aWa6wZn4WdN20JR6kw/1758977942/Movies/English/2025/Air%20Force%20Elite%20Thunderbirds/Air%20Force%20Elite%20Thunderbirds%202025%202160p%20NF%2010bit%20WEB-DL%20SDR%20HEVC%20%5BHindi%20DDP%205.1%20+%20English%20DDP.Atmos%205.1%5D%20H.265%20HHWEB-Dual.mkv
-
-#EXTINF:1460, The Batman
-#EXTVLCOPT:network-caching=1000
-http://content4.discoveryftp.net/secure/KXQy2Wu9Pdk9ZvNV-cK1Nw/1758978099/Movies/English/2022/The%20Batman/The.Batman.2022.2160p.WEBRip.3999MB.DDP5.1.x264-GalaxyRG.mkv
-
-#EXTINF:1460, Bullet Train
-#EXTVLCOPT:network-caching=1000
-http://content4.discoveryftp.net/secure/xhKFmuXp5uxE2Rkmku4PpQ/1758978222/Movies/English/2022/Bullet%20Train/Bullet.Train.2022.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv
-
-#EXTM3U
 #EXTINF:-1 group-title="Sports",TNT Sport 1
 https://cdn.welovestroll.store/linear3/tracks-v1a1/mono.m3u8|Referer=https://boycott-piracy.site/
 
