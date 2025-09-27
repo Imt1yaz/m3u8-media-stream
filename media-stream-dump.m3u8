@@ -14,8 +14,8 @@ http://content4.discoveryftp.net/secure/KXQy2Wu9Pdk9ZvNV-cK1Nw/1758978099/Movies
 #EXTINF:1460, Bullet Train
 #EXTVLCOPT:network-caching=1000
 http://content4.discoveryftp.net/secure/xhKFmuXp5uxE2Rkmku4PpQ/1758978222/Movies/English/2022/Bullet%20Train/Bullet.Train.2022.2160p.4K.WEB.x265.10bit.AAC5.1-%5BYTS.MX%5D.mkv
-        
-        
+
+#EXTM3U
 #EXTINF:-1 group-title="Sports",TNT Sport 1
 https://cdn.welovestroll.store/linear3/tracks-v1a1/mono.m3u8|Referer=https://boycott-piracy.site/
 
