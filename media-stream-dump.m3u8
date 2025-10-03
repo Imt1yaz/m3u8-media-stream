@@ -1,15 +1,17 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="Sports",BAR VS PSG
-https://cdn.welovestroll.store/event2/tracks-v1a1/mono.m3u8|Referer=https://ihatestreams.xyz/&Origin=https://ihatestreams.xyz
-
-#EXTINF:-1 group-title="Sports", BAN vs AFG
-https://bdixtv24.xyz/proxy.php?url=https%3A%2F%2Fin-mc-fdlive.fancode.com%2Fmumbai%2F136879_english_hls_e604dbb0ac62362ta-di_h264%2F1080p.m3u8|Referer=https://bdixtv24.xyz/play.php?id=136879
-
-
-
-
-
-
-
-
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:2467
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:12
+#EXTINF:11.520000,
+http://185.223.214.10:80/hls/6a9b7b4da597bf3dea8a33f0fc83d89f/148463_2467.ts
+#EXTINF:7.680000,
+http://185.223.214.10:80/hls/c03551e7836e9cf90c437f15f0e365c1/148463_2468.ts
+#EXTINF:7.680000,
+http://185.223.214.10:80/hls/4542ba2b17d1f7b09d11c23b4598f491/148463_2469.ts
+#EXTINF:5.760000,
+http://185.223.214.10:80/hls/689c3f50e69c08a05f5a19e02dec52a1/148463_2470.ts
+#EXTINF:9.600000,
+http://185.223.214.10:80/hls/941b34fbefda753ad7814c639b6dc722/148463_2471.ts
+#EXTINF:11.520000,
+http://185.223.214.10:80/hls/24dfd119b823b5503584e91cf992d968/148463_2472.ts
