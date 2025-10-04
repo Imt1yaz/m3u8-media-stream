@@ -2,17 +2,51 @@
 
 
 
-#EXTINF:-1 group-title="|NO| ✪ SPORTS" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",|NO| V SPORT PREMIER LEAGUE ᵁᴴᴰ
-https://xfireflix.fun/file/falcon/263070/master.m3u8
+#EXTINF:-1,UK: MUTV HD
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495237.ts
 
-#EXTINF:-1 group-title="|NO| ✪ SPORTS" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",|NO| V SPORT PREMIER LEAGUE ᵁᴴᴰ
-https://xfireflix.fun/file/falcon/312137/master.m3u8
+#EXTINF:-1,PTV Sports 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247170.ts
 
-#EXTINF:-1 group-title="|NO| ✪ SPORTS" tvg-logo="https://lo1.in/sw/viasspul.png",|NO| V ULTRA ᴴᴰ
-https://xfireflix.fun/file/falcon/263069/master.m3u8
+#EXTINF:-1,A Sports 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247168.ts
 
-#EXTINF:-1 group-title="|NO| ✪ SPORTS" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F643%2Fv-sport-ultra-1.png",|NO|V Sport Premier League 1 ᵁᴴᴰ
-https://xfireflix.fun/file/falcon/312138/master.m3u8
 
-#EXTINF:-1 group-title="|NO| ✪ SPORTS" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/KLT/DNA%20TV/Kanavapaketit/ohjelmakirjastot/V%20kanavat/VSport_football",|NO|  V SPORT 1
-https://xfireflix.fun/file/falcon/263081/master.m3u8
+#EXTINF:-1,IN | STAR Sports 1 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247159.ts
+#EXTINF:-1,IN | STAR Sports 2 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247160.ts
+#EXTINF:-1,IN | STAR Sports Select 1 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247161.ts
+#EXTINF:-1,IN | STAR Sports Select 2 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247162.ts
+#EXTINF:-1,IN | SONY Sports 1 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247155.ts
+#EXTINF:-1,IN | SONY Sports 2 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247156.ts
+#EXTINF:-1,IN | SONY Sports 3 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247157.ts
+#EXTINF:-1,IN | SONY Sports 5 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247158.ts
+#EXTINF:-1,FAST Sports 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247169.ts
+
+#EXTINF:-1,SE: V Sport Football HD
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/333065.ts
+
+#EXTINF:-1,SE: V Sport Ultra HD
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/333104.ts
+
+#EXTINF:-1,AU: BEIN Sports 3 FHD
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/499765.ts
+
+#EXTINF:-1,BEIN SPORTS (1)
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/683620.ts
+
+
+#EXTINF:-1,beIN Sports 1
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/819569.ts
+
+
+#EXTINF:-1,beIN Sports 3
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/819572.ts
