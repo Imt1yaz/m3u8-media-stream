@@ -10,6 +10,9 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247170.ts
 #EXTINF:-1,A Sports 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247168.ts
 
+#EXTINF:-1,FAST Sports 4K
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247169.ts
+
 
 
 #EXTINF:-1,IN | STAR Sports 1 4K
@@ -20,6 +23,8 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247160.ts
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247161.ts
 #EXTINF:-1,IN | STAR Sports Select 2 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247162.ts
+
+
 
 
 
@@ -46,10 +51,6 @@ http://xott.live:8080/Azeem/1234/167580.ts
 
 
 
-#EXTINF:-1,FAST Sports 4K
-http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247169.ts
-
-
 
 
 #EXTINF:-1,SE: V Sport Football HD
@@ -61,20 +62,23 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/333104.ts
 
 
 
-#EXTINF:-1,AU: BEIN Sports 3 FHD
-http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/499765.ts
 
-#EXTINF:-1,BEIN SPORTS (1)
+
+#EXTINF:-1,beIN Sports 1
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/683620.ts
 
-#EXTINF:-1,BEIN SPORTS (2)
+#EXTINF:-1,beIN Sports 2
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/683623.ts
 
 #EXTINF:-1,beIN Sports 3
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/819572.ts
 
-#EXTINF:-1,US: BEIN Sports HD
+#EXTINF:-1,AU: beIN Sports 3 FHD
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/499765.ts
+
+#EXTINF:-1,US: beIN Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/291592.ts
+
 
 
 
@@ -83,11 +87,44 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/291592.ts
 #EXTINF:-1,UK: SKY Sports Premier League HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495240.ts
 
+#EXTINF:-1,UK: SKY Sports Premier League FHD(2)
+http://xott.live:8080/Azeem/1234/346242.ts
+
+#EXTINF:-1,NZ: SKY Sports Premier League SD
+http://xott.live:8080/Azeem/1234/233185.ts
+
+#EXTINF:-1,GR: NOVA Sports Premier League HD
+http://xott.live:8080/Azeem/1234/350692.ts
+
 #EXTINF:-1,ZA: Canal+ Premier League HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/290326.ts
 
+
+
+
+
+
+
 #EXTINF:-1,UK: SKY Sports F1 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495253.ts
+
+#EXTINF:-1,UK: SKY Sports F1 SD
+http://xott.live:8080/Azeem/1234/346380.ts
+
+#EXTINF:-1,UK: SKY Sports F1 HD(2)
+http://xott.live:8080/Azeem/1234/233091.ts
+
+#EXTINF:-1,ES: DAZN F1
+http://xott.live:8080/Azeem/1234/354195.ts
+
+#EXTINF:-1,AU: beIN sports 1 SD
+http://xott.live:8080/Azeem/1234/348202.ts
+
+
+
+
+
+
 
 #EXTINF:-1,UK: SKY Sports Football HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/290377.ts
@@ -97,6 +134,11 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/290354.ts
 
 #EXTINF:-1,UK: SKY Sports MAIN Event HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495254.ts
+
+#EXTINF:-1,UK: SKY Sports MAIN Event SD
+http://xott.live:8080/Azeem/1234/217530.ts
+
+
 
 
 
@@ -111,18 +153,32 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52109.ts
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/291654.ts
 #EXTINF:-1,AU | FOX Cricket 501 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247166.ts
+
+#EXTINF:-1,AU | FOX Cricket 501 HD (2)
+http://xott.live:8080/Azeem/1234/167593.ts
+
 #EXTINF:-1,IN | TEN Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52106.ts
 #EXTINF:-1,MY: Astro Cricket HD
-http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/303500.ts
+http://xott.live:8080/Azeem/1234/167581.ts
 #EXTINF:-1,NZ | SKY Sports Cricket FHD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/250199.ts
+#EXTINF:-1,SUPER Sports Cricket SD
+http://xott.live:8080/Azeem/1234/167592.ts
+
+#EXTINF:-1,NZ | SKY Sports Cricket 3 HD
+http://xott.live:8080/Azeem/1234/217530.ts
+
 #EXTINF:-1,BAN || Channel 9 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/522657.ts
 #EXTINF:-1,BD | T Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/111409.ts
 #EXTINF:-1,IN | EURO Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/297577.ts
+
+
+
+
 
 
 
@@ -135,6 +191,8 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/529247.ts
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/529251.ts
 #EXTINF:-1,UK: TNT Sports 4 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495261.ts
+
+
 
 
 
