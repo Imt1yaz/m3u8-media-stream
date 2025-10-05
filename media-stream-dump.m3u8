@@ -1,27 +1,27 @@
 #EXTM3U
 
 
-#EXTINF:-1,UK: MUTV HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png",UK: MUTV HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495237.ts
 
-#EXTINF:-1,PTV Sports 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/CPm6GHA.png",PTV Sports 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247170.ts
 
-#EXTINF:-1,A Sports 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/A_Sports_Logo.png/revision/latest?cb=20250920163449",A Sports 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247168.ts
 
-#EXTINF:-1,FAST Sports 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://fastmedia.am/images/fastsports-logo.svg",FAST Sports 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247169.ts
 
 
 
-#EXTINF:-1,IN | STAR Sports 1 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-plus-hk.png",IN | STAR Sports 1 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247159.ts
-#EXTINF:-1,IN | STAR Sports 2 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png",IN | STAR Sports 2 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247160.ts
-#EXTINF:-1,IN | STAR Sports Select 1 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png",IN | STAR Sports Select 1 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247161.ts
-#EXTINF:-1,IN | STAR Sports Select 2 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png",IN | STAR Sports Select 2 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247162.ts
 
 
@@ -29,22 +29,22 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247162.ts
 
 
 
-#EXTINF:-1,IN | SONY Sports 1 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png",IN | SONY Sports 1 4K
 http://xott.live:8080/Azeem/1234/109983.ts
 
-#EXTINF:-1,IN | SONY Sports 2 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png",IN | SONY Sports 2 4K
 http://xott.live:8080/Azeem/1234/167571.ts
 
-#EXTINF:-1,IN | SONY Sports 3 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png",IN | SONY Sports 3 4K
 http://xott.live:8080/Azeem/1234/109985.ts
 
-#EXTINF:-1,IN | SONY Sports 3 SD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png",IN | SONY Sports 3 SD
 http://xott.live:8080/Azeem/1234/167572.ts
 
-#EXTINF:-1,IN | SONY Sports 5 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png",IN | SONY Sports 5 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247158.ts
 
-#EXTINF:-1,IN | SONY Sports 5 SD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png",IN | SONY Sports 5 SD
 http://xott.live:8080/Azeem/1234/167580.ts
 
 
