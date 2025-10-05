@@ -144,36 +144,36 @@ http://xott.live:8080/Azeem/1234/217530.ts
 
 
 
-#EXTINF:-1,UK: Paramount Network HD
+#EXTINF:-1 group-title="Sports",UK: Paramount Network HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495526.ts
 
-#EXTINF:-1,IN | Willow Cricket HD
+#EXTINF:-1 group-title="Sports",IN | Willow Cricket HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52109.ts
-#EXTINF:-1,US: Willow XTRA HD
+#EXTINF:-1 group-title="Sports",US: Willow XTRA HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/291654.ts
-#EXTINF:-1,AU | FOX Cricket 501 HD
+#EXTINF:-1 group-title="Sports",AU | FOX Cricket 501 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247166.ts
 
-#EXTINF:-1,AU | FOX Cricket 501 HD (2)
+#EXTINF:-1 group-title="Sports",AU | FOX Cricket 501 HD (2)
 http://xott.live:8080/Azeem/1234/167593.ts
 
-#EXTINF:-1,IN | TEN Sports HD
+#EXTINF:-1 group-title="Sports",IN | TEN Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52106.ts
-#EXTINF:-1,MY: Astro Cricket HD
+#EXTINF:-1 group-title="Sports",MY: Astro Cricket HD
 http://xott.live:8080/Azeem/1234/167581.ts
-#EXTINF:-1,NZ | SKY Sports Cricket FHD
+#EXTINF:-1 group-title="Sports",NZ | SKY Sports Cricket FHD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/250199.ts
-#EXTINF:-1,SUPER Sports Cricket SD
+#EXTINF:-1 group-title="Sports",SUPER Sports Cricket SD
 http://xott.live:8080/Azeem/1234/167592.ts
 
-#EXTINF:-1,NZ | SKY Sports Cricket 3 HD
+#EXTINF:-1 group-title="Sports",NZ | SKY Sports Cricket 3 HD
 http://xott.live:8080/Azeem/1234/217530.ts
 
-#EXTINF:-1,BAN || Channel 9 HD
+#EXTINF:-1 group-title="Sports",BAN || Channel 9 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/522657.ts
-#EXTINF:-1,BD | T Sports HD
+#EXTINF:-1 group-title="Sports",BD | T Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/111409.ts
-#EXTINF:-1,IN | EURO Sports HD
+#EXTINF:-1 group-title="Sports",IN | EURO Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/297577.ts
 
 
@@ -183,13 +183,13 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/297577.ts
 
 
 
-#EXTINF:-1,TNT Spots 1 HD
+#EXTINF:-1 group-title="Sports",TNT Spots 1 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/529243.ts
-#EXTINF:-1,TNT Spots 2 HD
+#EXTINF:-1 group-title="Sports",TNT Spots 2 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/529247.ts
-#EXTINF:-1,TNT Spots 3 HD
+#EXTINF:-1 group-title="Sports",TNT Spots 3 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/529251.ts
-#EXTINF:-1,UK: TNT Sports 4 HD
+#EXTINF:-1 group-title="Sports",UK: TNT Sports 4 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495261.ts
 
 
@@ -197,9 +197,9 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495261.ts
 
 
 
-#EXTINF:-1,MY: Astro Supersport HD
+#EXTINF:-1 group-title="Sports",MY: Astro Supersport HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/303503.ts
-#EXTINF:-1,MY: Astro Supersport 4 HD
+#EXTINF:-1 group-title="Sports",MY: Astro Supersport 4 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/303506.ts
-#EXTINF:-1,US: USA Network HD
+#EXTINF:-1 group-title="Sports",US: USA Network HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/291013.ts
