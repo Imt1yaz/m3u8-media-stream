@@ -53,10 +53,10 @@ http://xott.live:8080/Azeem/1234/167580.ts
 
 
 
-#EXTINF:-1,SE: V Sport Football HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/V_sport_football.png/revision/latest?cb=20211101170947",SE: V Sport Football HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/333065.ts
 
-#EXTINF:-1,SE: V Sport Ultra HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/V_sport_ultra_hd.svg/revision/latest?cb=20210808125251",SE: V Sport Ultra HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/333104.ts
 
 
@@ -84,19 +84,19 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/291592.ts
 
 
 
-#EXTINF:-1,UK: SKY Sports Premier League HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a40598e0471c3b4af37929ff394e3137.svg",Uk: SKY Sports Premier League HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495240.ts
 
-#EXTINF:-1,UK: SKY Sports Premier League FHD(2)
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a40598e0471c3b4af37929ff394e3137.svg",UK: SKY Sports Premier League FHD(2)
 http://xott.live:8080/Azeem/1234/346242.ts
 
-#EXTINF:-1,NZ: SKY Sports Premier League SD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Premier_League_2016.svg/revision/latest?cb=20200810045029",NZ: SKY Sports Premier League SD
 http://xott.live:8080/Azeem/1234/233185.ts
 
-#EXTINF:-1,GR: NOVA Sports Premier League HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Nova_Sports_Premier_League_V2022.svg/revision/latest?cb=20231011042117",GR: NOVA Sports Premier League HD
 http://xott.live:8080/Azeem/1234/350692.ts
 
-#EXTINF:-1,ZA: Canal+ Premier League HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c3de2632d14e7fa3ab5145cb9e455c55.png",ZA: Canal+ Premier League HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/290326.ts
 
 
@@ -105,19 +105,19 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/290326.ts
 
 
 
-#EXTINF:-1,UK: SKY Sports F1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png",UK: SKY Sports F1 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495253.ts
 
-#EXTINF:-1,UK: SKY Sports F1 SD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png",UK: SKY Sports F1 SD
 http://xott.live:8080/Azeem/1234/346380.ts
 
-#EXTINF:-1,UK: SKY Sports F1 HD(2)
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png",UK: SKY Sports F1 HD(2)
 http://xott.live:8080/Azeem/1234/233091.ts
 
-#EXTINF:-1,ES: DAZN F1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg/revision/latest?cb=20221210225344",ES: DAZN F1
 http://xott.live:8080/Azeem/1234/354195.ts
 
-#EXTINF:-1,AU: beIN sports 1 SD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logos.fandom.com/wiki/BeIN_Sports_1?file=BeINSports1.svg",AU: beIN sports 1 SD
 http://xott.live:8080/Azeem/1234/348202.ts
 
 
@@ -126,16 +126,16 @@ http://xott.live:8080/Azeem/1234/348202.ts
 
 
 
-#EXTINF:-1,UK: SKY Sports Football HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest?cb=20200924152526",UK: SKY Sports Football HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/290377.ts
 
-#EXTINF:-1,ZA: Supersport Football HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png/revision/latest?cb=20190309144550",ZA: Supersport Football HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/290354.ts
 
-#EXTINF:-1,UK: SKY Sports MAIN Event HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png",UK: SKY Sports MAIN Event HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495254.ts
 
-#EXTINF:-1,UK: SKY Sports MAIN Event SD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png",UK: SKY Sports MAIN Event SD
 http://xott.live:8080/Azeem/1234/217530.ts
 
 
