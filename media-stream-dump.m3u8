@@ -9,7 +9,7 @@ https://bdixtv24.xyz/proxy.php?url=https%3A%2F%2Fin-mc-fdlive.fancode.com%2Fmumb
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495237.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/CPm6GHA.png",PTV Sports 4K
-http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247170.ts
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/250211.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/A_Sports_Logo.png",A Sports 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247168.ts
@@ -36,17 +36,22 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247162.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png",IN | SONY Sports 1 4K
 http://xott.live:8080/Azeem/1234/109983.ts
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png",IN | SONY Sports 1 SD
+
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52085.ts
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png",IN | SONY Sports 2 4K
-http://xott.live:8080/Azeem/1234/167571.ts
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52085.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png",IN | SONY Sports 3 4K
 http://xott.live:8080/Azeem/1234/109985.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png",IN | SONY Sports 3 SD
-http://xott.live:8080/Azeem/1234/167572.ts
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52086.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png",IN | SONY Sports 5 4K
-http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247158.ts
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/453435.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png",IN | SONY Sports 5 SD
 http://xott.live:8080/Azeem/1234/167580.ts
@@ -62,6 +67,9 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/333065.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/V_sport_ultra_hd.svg",SE: V Sport Ultra HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/333104.ts
+
+#EXTINF:-1 group-title="Sports",SE: V Sport Motor HD
+http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/333102.ts
 
 
 
