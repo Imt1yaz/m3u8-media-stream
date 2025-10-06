@@ -198,13 +198,13 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/297577.ts
 
 
 
-#EXTINF:-1 group-title="Sports",TNT Spots 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Spots 1 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/529243.ts
-#EXTINF:-1 group-title="Sports",TNT Spots 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img-284.media.info/i/bg/1/1540-1690027877.webp",TNT Spots 2 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/529247.ts
-#EXTINF:-1 group-title="Sports",TNT Spots 3 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img-284.media.info/i/bg/5/5712-1690027954.webp",TNT Spots 3 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/529251.ts
-#EXTINF:-1 group-title="Sports",UK: TNT Sports 4 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img-284.media.info/i/bg/1/1491-1690027975.webp",UK: TNT Sports 4 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495261.ts
 
 
