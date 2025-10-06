@@ -159,36 +159,36 @@ http://xott.live:8080/Azeem/1234/217530.ts
 
 
 
-#EXTINF:-1 group-title="Sports",UK: Paramount Network HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/corp/pp/paramount-international-networks-us.png",UK: Paramount Network HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495526.ts
 
-#EXTINF:-1 group-title="Sports",IN | Willow Cricket HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ww/willow-us.png",IN | Willow Cricket HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52109.ts
-#EXTINF:-1 group-title="Sports",US: Willow XTRA HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://freeshot.live/upload/source/WillowXtra-logo.png",US: Willow XTRA HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/291654.ts
-#EXTINF:-1 group-title="Sports",AU | FOX Cricket 501 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-cricket-us-au.png",AU | FOX Cricket 501 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247166.ts
 
-#EXTINF:-1 group-title="Sports",AU | FOX Cricket 501 HD (2)
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-cricket-us-au.png",AU | FOX Cricket 501 HD (2)
 http://xott.live:8080/Azeem/1234/167593.ts
 
-#EXTINF:-1 group-title="Sports",IN | TEN Sports HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png",IN | TEN Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52106.ts
-#EXTINF:-1 group-title="Sports",MY: Astro Cricket HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-cricket-my.png",MY: Astro Cricket HD
 http://xott.live:8080/Azeem/1234/167581.ts
-#EXTINF:-1 group-title="Sports",NZ | SKY Sports Cricket FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ia800804.us.archive.org/20/items/SkySportsCricket_201708/sky%20sports%20cricket.png",NZ | SKY Sports Cricket FHD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/250199.ts
-#EXTINF:-1 group-title="Sports",SUPER Sports Cricket SD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SUPER Sports Cricket SD
 http://xott.live:8080/Azeem/1234/167592.ts
 
-#EXTINF:-1 group-title="Sports",NZ | SKY Sports Cricket 3 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XYp3Ua3.png",NZ | SKY Sports Cricket 3 HD
 http://xott.live:8080/Azeem/1234/217530.ts
 
-#EXTINF:-1 group-title="Sports",BAN || Channel 9 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel9_bd.png",BAN || Channel 9 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/522657.ts
-#EXTINF:-1 group-title="Sports",BD | T Sports HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-bd.png",BD | T Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/111409.ts
-#EXTINF:-1 group-title="Sports",IN | EURO Sports HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png",IN | EURO Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/297577.ts
 
 
@@ -212,9 +212,9 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495261.ts
 
 
 
-#EXTINF:-1 group-title="Sports",MY: Astro Supersport HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1jSbawN.png",MY: Astro Supersport HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/303503.ts
-#EXTINF:-1 group-title="Sports",MY: Astro Supersport 4 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/TBZ5Op7.png",MY: Astro Supersport 4 HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/303506.ts
-#EXTINF:-1 group-title="Sports",US: USA Network HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/uu/usa-network-canada-us-ca.svg",US: USA Network HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/291013.ts
