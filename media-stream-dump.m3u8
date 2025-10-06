@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports",Fancode
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png",Fancode
 https://bdixtv24.xyz/proxy.php?url=https%3A%2F%2Fin-mc-fdlive.fancode.com%2Fmumbai%2F136880_english_hls_34e42d180581738ta-di_h264%2F1080p.m3u8|Referer=https://bdixtv24.xyz/play.php?id=136880
 
 
@@ -11,10 +11,10 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495237.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/CPm6GHA.png",PTV Sports 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/250211.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/A_Sports_Logo.png",A Sports 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png",A Sports 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247168.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://fastmedia.am/images/fastsports-logo.svg",FAST Sports 4K
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fast-sports-pk.png",FAST Sports 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247169.ts
 
 
@@ -65,7 +65,7 @@ http://b1g.ooo:80/Gerado/Gerado1/865916.ts
 
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/V_sport_football.png",SE: V Sport Football HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-fotboll-se.png",SE: V Sport Football HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/333065.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v-sport-ultra-hd-se.png",SE: V Sport Ultra HD
@@ -79,19 +79,19 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/333102.ts
 
 
 
-#EXTINF:-1,beIN Sports 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",beIN Sports 1
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/683620.ts
 
-#EXTINF:-1,beIN Sports 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",beIN Sports 2
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/683623.ts
 
-#EXTINF:-1,beIN Sports 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",beIN Sports 3
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/819572.ts
 
-#EXTINF:-1,AU: beIN Sports 3 FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",AU: beIN Sports 3 FHD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/499765.ts
 
-#EXTINF:-1,US: beIN Sports HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png",US: beIN Sports HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/291592.ts
 
 
@@ -132,7 +132,7 @@ http://xott.live:8080/Azeem/1234/233091.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/DAZN_F1.svg",ES: DAZN F1
 http://xott.live:8080/Azeem/1234/354195.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://logos.fandom.com/wiki/BeIN_Sports_1?file=BeINSports1.svg",AU: beIN sports 1 SD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",AU: beIN sports 1 SD
 http://xott.live:8080/Azeem/1234/348202.ts
 
 
