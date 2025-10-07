@@ -37,7 +37,6 @@ http://supersonictv.live:8080/jsaletv5/5554477885/85567
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52098.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png",IN | SONY Sports 1 SD
-
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52085.ts
 
 
@@ -146,7 +145,7 @@ http://b1g.ooo:80/Gerado/Gerado1/164500
 #EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png",UK: SKY Sports F1 HD(2)
 http://b1g.ooo:80/Gerado/Gerado1/35803
 
-EXTINF:- group-title="Sports",NZ:Sky Sports 4
+#EXTINF:- group-title="Sports",NZ:Sky Sports 4
 http://b1g.ooo:80/Gerado/Gerado1/405097
 
 #EXTINF:-1,F1 | Fox Sports 506
