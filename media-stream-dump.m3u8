@@ -22,11 +22,11 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/247169.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-1-hk-in.png",IN | STAR Sports 1 4K
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/499596.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png",IN | STAR Sports 2 4K
-http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/499597.ts
+http://supersonictv.live:8080/jsaletv5/5554477885/85566
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/rbgvLYd/Star-Sports-Select-1-X-Vision.png",IN | STAR Sports Select 1 4K
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/dPP0vQS/Star-Sports-Select-2-X-Vision.png",IN | STAR Sports Select 2 4K
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+http://supersonictv.live:8080/jsaletv5/5554477885/85567
 
 
 
@@ -107,6 +107,10 @@ http://xott.live:8080/Azeem/1234/346242.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Premier_League_2016.svg",NZ: SKY Sports Premier League SD
 http://xott.live:8080/Azeem/1234/233185.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",Supersports Premier League
+http://supersonictv.live:8080/jsaletv5/5554477885/86863
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Nova_Sports_Premier_League_V2022.svg",GR: NOVA Sports Premier League HD
 http://xott.live:8080/Azeem/1234/350692.ts
