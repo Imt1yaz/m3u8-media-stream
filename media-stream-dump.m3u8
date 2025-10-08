@@ -133,25 +133,26 @@ http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/290326.ts
 
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png",UK: SKY Sports F1 4K
+http://eagle2024.xyz/play/live.php?mac=00:1A:79:03:1E:C8&stream=1076470&extension=ts
 
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png",UK: SKY Sports F1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png",UK: SKY Sports F1 50fps
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495253.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png",UK: SKY Sports F1 SD
-http://tvscreen.icu:8080/2145165799/eddelley31@yahoo.com/125947	
+#EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png",UK: SKY Sports F1 25fps
+http://eagle2024.xyz/play/live.php?mac=00:1A:79:03:1E:C8&stream=50276&extension=ts&play_token=J4UUJSyMcS
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/83d519049866aced9d93940fb58ab315.png",UK: SKY Sports F1 HD(2)
 http://b1g.ooo:80/Gerado/Gerado1/35803
 
-#EXTINF:-1,Sky F1 UHD
-http://eagle2024.xyz/live/phooria2_kamal/brte7l8l0d/1076470.ts
+#EXTINF:-1,group-title="Sports" tvg-logo="https://alwangroup.co/wp-content/uploads/2025/06/Untitled-design-1.png",Alwan F1 FHD
+http://eagle2024.xyz/play/live.php?mac=00:1A:79:A1:FB:7D&stream=1641616&extension=ts
 
 #EXTINF:- group-title="Sports",NZ:Sky Sports 4
 http://b1g.ooo:80/Gerado/Gerado1/405097
 
-#EXTINF:-1,F1 | Fox Sports 506
+#EXTINF:-1 group-title="Sports",F1 | Fox Sports 506
 http://b1g.ooo:80/Gerado/Gerado1/356537
 
 
