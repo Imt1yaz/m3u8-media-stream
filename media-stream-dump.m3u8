@@ -206,8 +206,13 @@ http://xott.live:8080/Azeem/1234/167593.ts
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/52106.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-cricket-my.png",MY: Astro Cricket HD
 http://xott.live:8080/Azeem/1234/167581.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ia800804.us.archive.org/20/items/SkySportsCricket_201708/sky%20sports%20cricket.png",NZ | SKY Sports Cricket FHD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ia800804.us.archive.org/20/items/SkySportsCricket_201708/sky%20sports%20cricket.png",NZ | SKY Sports Cricket HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/250199.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ia800804.us.archive.org/20/items/SkySportsCricket_201708/sky%20sports%20cricket.png",NZ | SKY Sports Cricket 50fps
+http://eagle2024.xyz/play/live.php?mac=00:1A:79:03:1E:C8&stream=303266&extension=ts
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SUPER Sports Cricket SD
 http://xott.live:8080/Azeem/1234/167592.ts
 
