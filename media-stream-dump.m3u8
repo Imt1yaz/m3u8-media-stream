@@ -5,6 +5,15 @@ https://bdixtv24.xyz/proxy.php?url=https%3A%2F%2Fin-mc-fdlive.fancode.com%2Fmumb
 
 
 
+#EXTINF:-1,Now HK Now Premier Sports
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=313829&extension=ts
+
+#EXTINF:-,Now HK Premier Sports 1
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=313823&extension=ts
+
+
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mutv.manutd.com/assets/images/fav_icon.png",UK: MUTV HD
 http://ip96.uk:8080//live/patelnetiptv/TUxpd3YptKcg/495237.ts
 
