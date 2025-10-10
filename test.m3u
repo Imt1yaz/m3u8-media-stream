@@ -1,0 +1,31 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1,Sky F1 4k
+http://eaglepr.xyz/play/live.php?mac=00:1A:79:7d:95:27&stream=1076470&extension=ts
+
+
+#EXTINF:-1,Sky F1 25fps
+http://eaglepr.xyz/play/live.php?mac=00:1A:79:7d:95:27&stream=10525&extension=ts
+
+
+#EXTINF:-1,Now HK Now Premier Sports
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=313829&extension=ts
+
+#EXTINF:-,Now HK Premier Sports 1
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=313823&extension=ts
+
+#EXTINF:-1,|US|Red Bull TV
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=13112&extension=ts
+
+
+
+#EXTINF:-1,|US| PEACOCK LIVE|Premier League
+http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=296759&extension=ts&play_token=49fLpcuvqW
+
+
+
+#EXTINF:-1,|UK| SKY SPORTS F1 ᵁᴴᴰ
+http://eaglepr.xyz:80/play/live.php?mac=00:1A:79:bf:72:0a&stream=50276&extension=ts&play_token=EU6m9BjtnT
