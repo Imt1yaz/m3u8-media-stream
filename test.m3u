@@ -33,4 +33,10 @@ http://eaglepr.xyz:80/play/live.php?mac=00:1A:79:bf:72:0a&stream=50276&extension
 
 
 #EXTINF:-1,sky f1 50 fps
-http://eagle2024.xyz/play/live.php?mac=00:1A:79:bf:72:0a&stream=303265&extension=ts&play_token=zxo7cUaS8z	 
+http://eagle2024.xyz/play/live.php?mac=00:1A:79:bf:72:0a&stream=303265&extension=ts&play_token=zxo7cUaS8z
+
+#EXTINF:-1,TNT EAGLE APP xtream
+http://egaletv.cc/live/70:2a:d5:d9:dd:ce/k5xk8qkle0/77413.ts
+
+#EXTNIF:-1,PHP req
+http://egaletv.cc/player_api.php?&username=70%3A2a%3Ad5%3Ad9%3Add%3Ace&password=k5xk8qkle0&action=get_short_epg&stream_id=77413
