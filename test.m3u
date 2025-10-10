@@ -11,6 +11,7 @@ http://eaglepr.xyz/play/live.php?mac=00:1A:79:7d:95:27&stream=1076470&extension=
 http://eaglepr.xyz/play/live.php?mac=00:1A:79:7d:95:27&stream=10525&extension=ts
 
 
+
 #EXTINF:-1,Now HK Now Premier Sports
 http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=313829&extension=ts
 
@@ -29,3 +30,7 @@ http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=296759&extens
 
 #EXTINF:-1,|UK| SKY SPORTS F1 ᵁᴴᴰ
 http://eaglepr.xyz:80/play/live.php?mac=00:1A:79:bf:72:0a&stream=50276&extension=ts&play_token=EU6m9BjtnT
+
+
+#EXTINF:-1,sky f1 50 fps
+http://eagle2024.xyz/play/live.php?mac=00:1A:79:bf:72:0a&stream=303265&extension=ts&play_token=zxo7cUaS8z	 
