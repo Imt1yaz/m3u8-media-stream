@@ -1,42 +1,52 @@
 #EXTM3U
+#PLAYLIST:Streamed.pk Complete - 2025-10-12 05:29
+#DESCRIPTION:Extracted 15 streams from 20 matches
 
+# ====== FIGHT (UFC/BOXING) (5 streams) ======
+#EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] UFC Fight Night: Charles Oira vs Mateusz Gamro [HD]" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] UFC Fight Night: Charles Oira vs Mateusz Gamro [HD]
+https://lb7.strmd.top/secure/ZqeacXjtjvpsViByNsdBQRSqpQWlyKsE/alpha/stream/ufc-fight-night-charles-oliveira-vs-mateusz-gamro/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/ufc-fight-night-charles-oliveira-vs-mateusz-gamro/1&Origin=https://embedsports.top
 
+#EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] UFC Fight Night 261 Oira vs Gamrot [HD]" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] UFC Fight Night 261 Oira vs Gamrot [HD]
+https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8|Referer=https://embedsports.top/embed/admin/ppv-ufc-fight-night-oliveira-vs-gamrot/1&Origin=https://embedsports.top
 
+#EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] Jaron Ennis vs Uisma Lima: Prelims [HD]" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] Jaron Ennis vs Uisma Lima: Prelims [HD]
+https://lb8.strmd.top/secure/zMLcwQPqwqLVfLHcKDwwmFHKMSsghprY/alpha/stream/jaron-ennis-vs-uisma-lima-prelims/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/jaron-ennis-vs-uisma-lima-prelims/1&Origin=https://embedsports.top
 
-#EXTINF:-1,Sky F1 4k
-http://eaglepr.xyz/play/live.php?mac=00:1A:79:7d:95:27&stream=1076470&extension=ts
+#EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] UFC Fight Night: Prelims [HD]" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] UFC Fight Night: Prelims [HD]
+https://lb5.strmd.top/secure/dlhgtIgsKfGjwlENtsJBGNoJIrQFbaGu/charlie/stream/prelims-1629465801/1/playlist.m3u8|Referer=https://embedsports.top/embed/charlie/prelims-1629465801/1&Origin=https://embedsports.top
 
+#EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] Karen Chukhadzhian vs Joel Mafauad [HD]" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] Karen Chukhadzhian vs Joel Mafauad [HD]
+https://lb2.strmd.top/secure/KvMfYJxXmPCktzqnXyqPUjOwkGxufqQQ/alpha/stream/karen-chukhadzhian-vs-joel-mafauad/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/karen-chukhadzhian-vs-joel-mafauad/1&Origin=https://embedsports.top
 
-#EXTINF:-1,Sky F1 25fps
-http://eaglepr.xyz/play/live.php?mac=00:1A:79:7d:95:27&stream=10525&extension=ts
+# ====== FOOTBALL (7 streams) ======
+#EXTINF:-1 tvg-name="[Football] Mexico U20 vs Argentina U20 [HD]" group-title="Football",[Football] Mexico U20 vs Argentina U20 [HD]
+https://lb3.strmd.top/secure/HRoYoAFNmkoFxdEGLOPBfuguCggGUIOg/alpha/stream/mexico-u20-vs-argentina-u20/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/mexico-u20-vs-argentina-u20/1&Origin=https://embedsports.top
 
+#EXTINF:-1 tvg-name="[Football] Rhode Island FC vs Tampa Bay Rowdies [HD]" group-title="Football",[Football] Rhode Island FC vs Tampa Bay Rowdies [HD]
+https://lb6.strmd.top/secure/JAUIglRAflrGJBIKSUwiFpbqrBfCWOxv/alpha/stream/rhode-island-vs-tampa-bay/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/rhode-island-vs-tampa-bay/1&Origin=https://embedsports.top
 
+#EXTINF:-1 tvg-name="[Football] Pittsburgh Riverhounds vs Indy Eleven [HD]" group-title="Football",[Football] Pittsburgh Riverhounds vs Indy Eleven [HD]
+https://lb2.strmd.top/secure/jguGTaiNYDELKcLibZvMkuCnyjwgYVCm/charlie/stream/pittsburgh-riverhounds-vs-indy-eleven-1327299/1/playlist.m3u8|Referer=https://embedsports.top/embed/charlie/pittsburgh-riverhounds-vs-indy-eleven-1327299/1&Origin=https://embedsports.top
 
-#EXTINF:-1,Now HK Now Premier Sports
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=313829&extension=ts
+#EXTINF:-1 tvg-name="[Football] Lexington SC vs El Paso Locomotive [HD]" group-title="Football",[Football] Lexington SC vs El Paso Locomotive [HD]
+https://lb3.strmd.top/secure/PNWPVCDIVHnXvVHNFmiyQvLfxMkkIbUq/alpha/stream/lexington-vs-el-paso/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/lexington-vs-el-paso/1&Origin=https://embedsports.top
 
-#EXTINF:-,Now HK Premier Sports 1
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=313823&extension=ts
+#EXTINF:-1 tvg-name="[Football] Hartford Athletic vs Sacramento Republic [HD]" group-title="Football",[Football] Hartford Athletic vs Sacramento Republic [HD]
+https://lb2.strmd.top/secure/LPBELFsszrJKQRaatvlvPVbQXYqrKAuX/alpha/stream/hartford-athletic-vs-sacramento-republic/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/hartford-athletic-vs-sacramento-republic/1&Origin=https://embedsports.top
 
-#EXTINF:-1,|US|Red Bull TV
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=13112&extension=ts
+#EXTINF:-1 tvg-name="[Football] Palmeiras vs Juventude [HD]" group-title="Football",[Football] Palmeiras vs Juventude [HD]
+https://lb7.strmd.top/secure/XMiFfTYpqDafgRTcsBvvbXkNmBPqVQqO/alpha/stream/palmeiras-vs-juventude/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/palmeiras-vs-juventude/1&Origin=https://embedsports.top
 
+#EXTINF:-1 tvg-name="[Football] Brooklyn FC Women vs Tampa Bay Sun [HD]" group-title="Football",[Football] Brooklyn FC Women vs Tampa Bay Sun [HD]
+https://lb8.strmd.top/secure/MOlidhGzhZQxjSufHLdGEQihtfTFKmWX/alpha/stream/brooklyn-w-vs-tampa-bay-sun-w/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/brooklyn-w-vs-tampa-bay-sun-w/1&Origin=https://embedsports.top
 
+# ====== MOTOR SPORTS (3 streams) ======
+#EXTINF:-1 tvg-name="[Motor Sports] NASCAR Cup Series Qualifying Las Vegas [HD]" group-title="Motor Sports",[Motor Sports] NASCAR Cup Series Qualifying Las Vegas [HD]
+https://lb8.strmd.top/secure/qqWtgkTNnkVNvmIGHupgyAiMtCMcCtpg/alpha/stream/nascar-cup-series-qualifying-las-vegas/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/nascar-cup-series-qualifying-las-vegas/1&Origin=https://embedsports.top
 
-#EXTINF:-1,|US| PEACOCK LIVE|Premier League
-http://dream4ktv.net:80/play/live.php?mac=00:1A:79:C3:08:47&stream=296759&extension=ts&play_token=49fLpcuvqW
+#EXTINF:-1 tvg-name="[Motor Sports] Supercars [HD]" group-title="Motor Sports",[Motor Sports] Supercars [HD]
+https://lb8.strmd.top/secure/VTelmUnPDrpvrOZSIcUrXCKlZvFfQMXw/alpha/stream/supercars/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/supercars/1&Origin=https://embedsports.top
 
+#EXTINF:-1 tvg-name="[Motor Sports] WeatherTech Series Petit Le Mans: Part 2 [HD]" group-title="Motor Sports",[Motor Sports] WeatherTech Series Petit Le Mans: Part 2 [HD]
+https://lb5.strmd.top/secure/bpqVGjqZlbSuDxwvMrDdstyCOoGiJyrS/alpha/stream/weathertech-series-petit-le-mans-part-2/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/weathertech-series-petit-le-mans-part-2/1&Origin=https://embedsports.top
 
-
-#EXTINF:-1,|UK| SKY SPORTS F1 ᵁᴴᴰ
-http://eaglepr.xyz:80/play/live.php?mac=00:1A:79:bf:72:0a&stream=50276&extension=ts&play_token=EU6m9BjtnT
-
-
-#EXTINF:-1,sky f1 50 fps
-http://eagle2024.xyz/play/live.php?mac=00:1A:79:bf:72:0a&stream=303265&extension=ts&play_token=zxo7cUaS8z
-
-#EXTINF:-1,TNT EAGLE APP xtream
-http://egaletv.cc/live/70:2a:d5:d9:dd:ce/k5xk8qkle0/77413.ts
-
-#EXTINF:-1,abcd
-https://gg.poocloud.in/wc_portugal/index.m3u8|Referer=https://embedsports.top/embed/admin/ppv-portugal-vs-republic-of-ireland/1&Origin=https://embedsports.top
