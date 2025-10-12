@@ -1,70 +1,70 @@
 #EXTM3U
-#PLAYLIST:Streamed.pk Optimized - 2025-10-12 08:18
-#DESCRIPTION:Extracted 21 streams in 6.1 minutes
+#PLAYLIST:Streamed.pk Ultra - 2025-10-12 08:36
+#DESCRIPTION:21 streams in 3.0min
 
-# ====== FIGHT (UFC/BOXING) (6 streams) ======
+# ====== FIGHT (UFC/BOXING) (5) ======
 #EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] AEW: Collision [HD] (admin)" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] AEW: Collision [HD] (admin)
-https://gg.poocloud.in/wrestling/index.m3u8|Referer=https://embedsports.top/embed/admin/ppv-aew-collision/1&Origin=https://embedsports.top
+https://lb5.strmd.top/secure/TqtVIKbMYHMTqFSllxnEIDFzfwHUbDLK/alpha/stream/aew-collision/1/playlist.m3u8|Referer=https://embedsports.top/embed/admin/ppv-aew-collision/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] AEW: Collision [HD] (alpha)" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] AEW: Collision [HD] (alpha)
-https://lb5.strmd.top/secure/lMrdPlhAzyeRsWiMGmCHBBzAEdLajHqf/alpha/stream/aew-collision/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/aew-collision/1&Origin=https://embedsports.top
+https://lb5.strmd.top/secure/TqtVIKbMYHMTqFSllxnEIDFzfwHUbDLK/alpha/stream/aew-collision/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/aew-collision/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] Jaron Ennis vs Uisma Lima [HD] (alpha)" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] Jaron Ennis vs Uisma Lima [HD] (alpha)
-https://lb5.strmd.top/secure/DqtqumvzxTPRkcbtmiGpYKyetSBxohdf/alpha/stream/jaron-ennis-vs-uisma-lima/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/jaron-ennis-vs-uisma-lima/1&Origin=https://embedsports.top
+https://lb10.strmd.top/secure/BhHZrRcJxwkVEMUeDuopjrhTPbmkxZuA/echo/stream/ppv-event-07-ennis-v-lima-ppv-007/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/jaron-ennis-vs-uisma-lima/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] Jaron Ennis vs Uisma Lima [HD] (echo)" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] Jaron Ennis vs Uisma Lima [HD] (echo)
-https://lb7.strmd.top/secure/vUNumhlUVCSNDitmamgdpTFkFssPoHRe/echo/stream/ppv-event-07-ennis-v-lima-ppv-007/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/ppv-event-07-ennis-v-lima-ppv-007/1&Origin=https://embedsports.top
+https://lb10.strmd.top/secure/BhHZrRcJxwkVEMUeDuopjrhTPbmkxZuA/echo/stream/ppv-event-07-ennis-v-lima-ppv-007/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/ppv-event-07-ennis-v-lima-ppv-007/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] UFC Fight Night: Oira vs. Gamrot [HD] (admin)" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] UFC Fight Night: Oira vs. Gamrot [HD] (admin)
-https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8|Referer=https://embedsports.top/embed/admin/ppv-ufc-fight-night-oliveira-vs-gamrot/1&Origin=https://embedsports.top
+https://lb10.strmd.top/secure/BhHZrRcJxwkVEMUeDuopjrhTPbmkxZuA/echo/stream/ppv-event-07-ennis-v-lima-ppv-007/1/playlist.m3u8|Referer=https://embedsports.top/embed/admin/ppv-ufc-fight-night-oliveira-vs-gamrot/1&Origin=https://embedsports.top
 
-#EXTINF:-1 tvg-name="[Fight (UFC/Boxing)] UFC Fight Night: Oira vs. Gamrot [HD] (alpha)" group-title="Fight (UFC/Boxing)",[Fight (UFC/Boxing)] UFC Fight Night: Oira vs. Gamrot [HD] (alpha)
-https://lb7.strmd.top/secure/WxFagqGownkUWWgQZwxZwtIGzHuIPDQN/alpha/stream/ufc-fight-night-charles-oliveira-vs-mateusz-gamro/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/ufc-fight-night-charles-oliveira-vs-mateusz-gamro/1&Origin=https://embedsports.top
-
-# ====== FOOTBALL (12 streams) ======
+# ====== FOOTBALL (13) ======
 #EXTINF:-1 tvg-name="[Football] Utah Royals vs San Diego Wave [HD] (alpha)" group-title="Football",[Football] Utah Royals vs San Diego Wave [HD] (alpha)
-https://lb8.strmd.top/secure/dLqtQwDrIVXQpStmnKizbUeKqoSZWRts/alpha/stream/utah-royals-w-vs-san-diego-wave-w/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/utah-royals-w-vs-san-diego-wave-w/1&Origin=https://embedsports.top
+https://lb6.strmd.top/secure/TixjyrBDIZtyIFuyUljLytglPQIJlnIJ/echo/stream/utah-royals-w-vs-san-diego-wave-w-football-1339412/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/utah-royals-w-vs-san-diego-wave-w/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Football] Utah Royals vs San Diego Wave [HD] (echo)" group-title="Football",[Football] Utah Royals vs San Diego Wave [HD] (echo)
-https://lb10.strmd.top/secure/DvVhWUFWZlTlOirUJLEEImelsQevyqgu/echo/stream/utah-royals-w-vs-san-diego-wave-w-football-1339412/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/utah-royals-w-vs-san-diego-wave-w-football-1339412/1&Origin=https://embedsports.top
-
-#EXTINF:-1 tvg-name="[Football] Seattle Sounders FC vs Real Salt Lake [HD] (alpha)" group-title="Football",[Football] Seattle Sounders FC vs Real Salt Lake [HD] (alpha)
-https://lb3.strmd.top/secure/xwYnEqSuzpuLRvUBpjyAYkuydpmQGHYi/alpha/stream/seattle-sounders-fc-vs-real-salt-lake/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/seattle-sounders-fc-vs-real-salt-lake/1&Origin=https://embedsports.top
+https://lb6.strmd.top/secure/TixjyrBDIZtyIFuyUljLytglPQIJlnIJ/echo/stream/utah-royals-w-vs-san-diego-wave-w-football-1339412/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/utah-royals-w-vs-san-diego-wave-w-football-1339412/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Football] Seattle Sounders FC vs Real Salt Lake [HD] (echo)" group-title="Football",[Football] Seattle Sounders FC vs Real Salt Lake [HD] (echo)
-https://lb10.strmd.top/secure/DvVhWUFWZlTlOirUJLEEImelsQevyqgu/echo/stream/utah-royals-w-vs-san-diego-wave-w-football-1339412/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/seattle-sounders-vs-real-salt-lake-football-1326633/1&Origin=https://embedsports.top
+https://lb6.strmd.top/secure/TixjyrBDIZtyIFuyUljLytglPQIJlnIJ/echo/stream/utah-royals-w-vs-san-diego-wave-w-football-1339412/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/seattle-sounders-vs-real-salt-lake-football-1326633/1&Origin=https://embedsports.top
+
+#EXTINF:-1 tvg-name="[Football] Seattle Sounders FC vs Real Salt Lake [HD] (alpha)" group-title="Football",[Football] Seattle Sounders FC vs Real Salt Lake [HD] (alpha)
+https://lb5.strmd.top/secure/BvUQBXnXTzZhzpJUPpJBBnZbXvAEyUoS/echo/stream/seattle-sounders-vs-real-salt-lake-football-1326633/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/seattle-sounders-fc-vs-real-salt-lake/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Football] Liga Profesional Argentina: Velez Sarsfield vs Rosario Central [HD] (charlie)" group-title="Football",[Football] Liga Profesional Argentina: Velez Sarsfield vs Rosario Central [HD] (charlie)
-https://lb8.strmd.top/secure/gziBAMoedsPOGInHLwxmmiXULQglwlku/charlie/stream/velez-sarsfield-vs-rosario-central-1374239/1/playlist.m3u8|Referer=https://embedsports.top/embed/charlie/velez-sarsfield-vs-rosario-central-1374239/1&Origin=https://embedsports.top
-
-#EXTINF:-1 tvg-name="[Football] Vélez Sarsfield vs Rosario Central [HD] (alpha)" group-title="Football",[Football] Vélez Sarsfield vs Rosario Central [HD] (alpha)
-https://lb1.strmd.top/secure/JaFtwVAkDtUjjyeGtGYOWLqdoVgZEEDM/alpha/stream/velez-sarsfield-vs-rosario-central/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/velez-sarsfield-vs-rosario-central/1&Origin=https://embedsports.top
+https://lb7.strmd.top/secure/izTTnQmVffajDzdAQGKMhXAFJdZwgxna/charlie/stream/velez-sarsfield-vs-rosario-central-1374239/1/playlist.m3u8|Referer=https://embedsports.top/embed/charlie/velez-sarsfield-vs-rosario-central-1374239/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Football] Vélez Sarsfield vs Rosario Central [HD] (echo)" group-title="Football",[Football] Vélez Sarsfield vs Rosario Central [HD] (echo)
-https://lb1.strmd.top/secure/JaFtwVAkDtUjjyeGtGYOWLqdoVgZEEDM/alpha/stream/velez-sarsfield-vs-rosario-central/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/velez-sarsfield-vs-rosario-central-football-1374239/1&Origin=https://embedsports.top
+https://lb1.strmd.top/secure/BmaNbYUEUmVnAHlbcSPuUIPmfZlxDUWa/echo/stream/velez-sarsfield-vs-rosario-central-football-1374239/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/velez-sarsfield-vs-rosario-central-football-1374239/1&Origin=https://embedsports.top
+
+#EXTINF:-1 tvg-name="[Football] Vélez Sarsfield vs Rosario Central [HD] (alpha)" group-title="Football",[Football] Vélez Sarsfield vs Rosario Central [HD] (alpha)
+https://lb1.strmd.top/secure/BmaNbYUEUmVnAHlbcSPuUIPmfZlxDUWa/echo/stream/velez-sarsfield-vs-rosario-central-football-1374239/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/velez-sarsfield-vs-rosario-central/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Football] Belgrano vs Estudiantes de La Plata [HD] (alpha)" group-title="Football",[Football] Belgrano vs Estudiantes de La Plata [HD] (alpha)
-https://lb6.strmd.top/secure/jdjlHAXZhDkUZdTUSLMnMDcEpzfDRARy/alpha/stream/belgrano-cordoba-vs-estudiantes-de-la-plata/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/belgrano-cordoba-vs-estudiantes-de-la-plata/1&Origin=https://embedsports.top
+https://lb1.strmd.top/secure/CSdRPWqvdKxGMkpxRKYfSSOWiIwXzbem/echo/stream/belgrano-cordoba-vs-estudiantes-lp-football-1374234/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/belgrano-cordoba-vs-estudiantes-de-la-plata/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Football] Belgrano vs Estudiantes de La Plata [HD] (echo)" group-title="Football",[Football] Belgrano vs Estudiantes de La Plata [HD] (echo)
-https://lb2.strmd.top/secure/MNtDjdBDWIOazxhgcDrbPYbBsSmUUVvv/echo/stream/belgrano-cordoba-vs-estudiantes-lp-football-1374234/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/belgrano-cordoba-vs-estudiantes-lp-football-1374234/1&Origin=https://embedsports.top
+https://lb1.strmd.top/secure/CSdRPWqvdKxGMkpxRKYfSSOWiIwXzbem/echo/stream/belgrano-cordoba-vs-estudiantes-lp-football-1374234/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/belgrano-cordoba-vs-estudiantes-lp-football-1374234/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Football] Mexico vs Colombia [HD] (alpha)" group-title="Football",[Football] Mexico vs Colombia [HD] (alpha)
-https://lb9.strmd.top/secure/DpJbPXujFZYdGDaNGCHcVkAertGvyOhu/alpha/stream/mexico-vs-colombia/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/mexico-vs-colombia/1&Origin=https://embedsports.top
+https://lb3.strmd.top/secure/FJuqkAuOoZvUdqvirqtlMTvHUwNNFCpj/echo/stream/mexico-vs-colombia-football-1400027/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/mexico-vs-colombia/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Football] Mexico vs Colombia [HD] (echo)" group-title="Football",[Football] Mexico vs Colombia [HD] (echo)
-https://lb4.strmd.top/secure/eEcCkHQiPxNawIoUbVuCsHebFvJNwveb/echo/stream/mexico-vs-colombia-football-1400027/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/mexico-vs-colombia-football-1400027/1&Origin=https://embedsports.top
+https://lb3.strmd.top/secure/FJuqkAuOoZvUdqvirqtlMTvHUwNNFCpj/echo/stream/mexico-vs-colombia-football-1400027/1/playlist.m3u8|Referer=https://embedsports.top/embed/echo/mexico-vs-colombia-football-1400027/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Football] New Mexico United vs Orange County SC [HD] (charlie)" group-title="Football",[Football] New Mexico United vs Orange County SC [HD] (charlie)
-https://lb4.strmd.top/secure/eEcCkHQiPxNawIoUbVuCsHebFvJNwveb/echo/stream/mexico-vs-colombia-football-1400027/1/playlist.m3u8|Referer=https://embedsports.top/embed/charlie/new-mexico-united-vs-orange-county-sc-1327298/1&Origin=https://embedsports.top
+https://lb3.strmd.top/secure/FJuqkAuOoZvUdqvirqtlMTvHUwNNFCpj/echo/stream/mexico-vs-colombia-football-1400027/1/playlist.m3u8|Referer=https://embedsports.top/embed/charlie/new-mexico-united-vs-orange-county-sc-1327298/1&Origin=https://embedsports.top
 
-# ====== MOTOR SPORTS (3 streams) ======
+#EXTINF:-1 tvg-name="[Football] FC Tulsa vs San Antonio [HD] (charlie)" group-title="Football",[Football] FC Tulsa vs San Antonio [HD] (charlie)
+https://lb5.strmd.top/secure/TqtVIKbMYHMTqFSllxnEIDFzfwHUbDLK/alpha/stream/aew-collision/1/playlist.m3u8|Referer=https://embedsports.top/embed/charlie/fc-tulsa-vs-san-antonio-1327293/1&Origin=https://embedsports.top
+
+# ====== MOTOR SPORTS (3) ======
 #EXTINF:-1 tvg-name="[Motor Sports] NASCAR Xfinity Series 302 Las Vegas [HD] (alpha)" group-title="Motor Sports",[Motor Sports] NASCAR Xfinity Series 302 Las Vegas [HD] (alpha)
-https://lb1.strmd.top/secure/ynItSPenyVlFbwhGmaRKzoeTVwypEBEi/alpha/stream/nascar-xfinity-series-302-las-vegas/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/nascar-xfinity-series-302-las-vegas/1&Origin=https://embedsports.top
+https://lb2.strmd.top/secure/RgodbdWsqlIxIyFrCpAKNkVueHhNYQCN/alpha/stream/nascar-xfinity-series-302-las-vegas/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/nascar-xfinity-series-302-las-vegas/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Motor Sports] Supercars [HD] (alpha)" group-title="Motor Sports",[Motor Sports] Supercars [HD] (alpha)
-https://lb7.strmd.top/secure/kNpHVrQGqUjCcxZPEyYHugOcPIGJadcJ/alpha/stream/supercars/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/supercars/1&Origin=https://embedsports.top
+https://lb3.strmd.top/secure/VdLnDdSMderieekbqbjIiDRadKOJaqlt/alpha/stream/supercars/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/supercars/1&Origin=https://embedsports.top
 
 #EXTINF:-1 tvg-name="[Motor Sports] WeatherTech Series Petit Le Mans: Part 2 [HD] (alpha)" group-title="Motor Sports",[Motor Sports] WeatherTech Series Petit Le Mans: Part 2 [HD] (alpha)
-https://lb9.strmd.top/secure/WUnWtXxnTFasrksxXmadcEEIvlbGTraA/alpha/stream/weathertech-series-petit-le-mans-part-2/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/weathertech-series-petit-le-mans-part-2/1&Origin=https://embedsports.top
+https://lb5.strmd.top/secure/FScWCVAmyGazOiDgGETYDookpazQfSSn/alpha/stream/weathertech-series-petit-le-mans-part-2/1/playlist.m3u8|Referer=https://embedsports.top/embed/alpha/weathertech-series-petit-le-mans-part-2/1&Origin=https://embedsports.top
 
