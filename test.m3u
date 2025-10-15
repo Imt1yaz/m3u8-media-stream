@@ -1,4 +1,4 @@
 #EXTM3U
 
-EXTINF:-1 group-title="Sports", Alwan F1
+#EXTINF:-1 group-title="Sports", Alwan F1
 http://eaglepr.xyz/play/live.php?mac=00:1A:79:8b:a9:c3&stream=1641616&extension=m3u8
